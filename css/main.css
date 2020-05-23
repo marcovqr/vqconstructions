@@ -266,7 +266,8 @@ section {
 }
 
 .navbar-brand h1 {
-  margin-top: 5px;
+  /*padding: 900px;*/
+  margin-top: 3main-navpx;
 }
 
 /*************************
@@ -912,7 +913,7 @@ ul.address {
 
 .footer-top {
   position: relative;
-  padding:30px 0
+  padding:25px 0
 }
 
 #footer .footer-bottom {
@@ -924,7 +925,7 @@ ul.address {
   text-decoration: underline;
 }
 
-.footer-logo {
+.footer-navbar-brand {
   display: inline-block;
   margin-bottom: 5px;
 }
